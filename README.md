@@ -4,9 +4,10 @@
   I am an indie video game developer making games by myself, including sprites coding and level design. You can find some of my stuff by following the links below :)
 </p>
 <p align="center">
-  <a href="lien"><img src="https://edumais.org/wp-content/uploads/2025/03/Logo-gd.games-dark-background.png" width="30%" alt="My gd.games page"></a>
-  <a href="lien"><img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/36345d9c-d24f-4e96-8b35-9316ad7c34a7"></a>
-  <a href="lien"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_7_6bOiJmJ9id_jGfEbVgVKc7lcxZDpJ7g4Jy2JW6p1d4ZVFJuG-vwCM&s=10" width="30%" alt="Itch.io"></a>
+  <a href="lien"><img src="https://edumais.org/wp-content/uploads/2025/03/Logo-gd.games-dark-background.png" width="30%" alt="Meltcore Games' gd.games page"></a>
+  <a href="lien"><img alt="Meltcore Games' itch.io page" src="https://github.com/user-attachments/assets/36345d9c-d24f-4e96-8b35-9316ad7c34a7"></a>
+  <a href="lien"><img alt="Meltcore Games Official Youtube Channel" src="https://github.com/user-attachments/assets/2de85bcb-20e5-4834-bcba-378a9435a24e" />
+</a>
 </p>
 
 ---
