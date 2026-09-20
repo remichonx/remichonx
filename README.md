@@ -14,14 +14,16 @@
 
 ## About me
 * 💻 Game Developer at KWS and Meltcore Games Studios 
-* 🎮 I love Hollow Knight, Lies of P and VR gaming
+* 🎨 Asset creation for my own games
 
 ## 🛠️ What I can do
 * **Langages :** Python, Java, learning C#
 * **IDE :** GDevelop 5, Godot
+* **Graphics :** Krita on Intuos Pro M, Aseprite with mouse
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=remichonx&show_icons=true&theme=radical" alt="GitHub Stats">
+  ### More:
+  I am actually searching for a music composer for my actual game project, feel free to contact me on my email adress if you are interested!
 </p>
