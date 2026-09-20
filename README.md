@@ -12,16 +12,16 @@
 
 ---
 
-## 🚀 À propos de moi
-* 💻 Développeur passionné par la création de jeux vidéo et le code.
-* 🎮 Actuellement en train de vider mon backlog Steam (objectif strict !).
+## About me
+* 💻 Game Developer at KWS and Meltcore Games Studios 
+* 🎮 I love Hollow Knight, Lies of P and VR gaming
 
-## 🛠️ Stack Technique
-* **Langages :** C#, C++, Python, JavaScript
-* **Moteurs :** Unity, Godot
+## 🛠️ What I can do
+* **Langages :** Python, Java, learning C#
+* **IDE :** GDevelop 5, Godot
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username= TON_USERNAME_GITHUB &show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=remichonx&show_icons=true&theme=radical" alt="GitHub Stats">
 </p>
