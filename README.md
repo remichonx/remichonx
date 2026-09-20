@@ -22,9 +22,10 @@
 
 ---
 
-<p align="center">
+<p>
   <h4>About Meltcore Games:</h4>
   MG is the studio i created to post my own games, starting in highschool a long time ago (i'm getting old).
   The goal of the studio is to provide the best possible, human-made videogames made with care. If you wish to join the studio to help or create with me, feel free to use the contact e-mail adresse provided on the github profile page. You may learn more about the studio's actual projects by visiting our Itch.io page as well as our Youtube channel.
   I am actually searching for a music composer for my actual game project, feel free to contact me on my email adress if you are interested!
 </p>
+<p>Contact us<a href="mailto:meltcoregames@gmail.com">here</a></p>
