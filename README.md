@@ -1,5 +1,4 @@
 <h1 align="center">Hey there, i'm Remichonx!!</h1>
-<h4 align = "center">(not my real name tho)</h4>
 <p align="center">
   I am an indie video game developer making games by myself, including sprites coding and level design. You can find some of my stuff by following the links below :)
 </p>
@@ -24,6 +23,6 @@
 ---
 
 <p align="center">
-  ### More:
+  <h4>More:</h4>
   I am actually searching for a music composer for my actual game project, feel free to contact me on my email adress if you are interested!
 </p>
